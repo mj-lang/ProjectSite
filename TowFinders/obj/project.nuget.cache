@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VuNiuwGPrrNkH57IMH5/FxjimtGDZWJxz3r2P1pdDqZuORvNZKMg1EYEBCXL3q9AVbmGw2VzBlg0oSaVV5AKTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mjlan\\CoderGirlMaster\\ProjectSite\\TowFinders\\TowFinders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mjlan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
