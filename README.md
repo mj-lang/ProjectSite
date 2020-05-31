@@ -28,7 +28,7 @@ I will have to learn how to build a database from scratch, as well as authentica
 
 ### See my [Project Tracker.](https://trello.com/b/DMDCWUVF)
 
-MIT License
+#### MIT License
 
 Copyright (c) 2020 Melva J. Lang
 
